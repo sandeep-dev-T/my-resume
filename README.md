@@ -1,31 +1,20 @@
-# 📄 Professional Resume - LaTeX Source
+# 📄 Sandeep Dev T | Cloud & DevOps Engineer
 
-This repository contains the LaTeX source code and the compiled PDF of my professional resume. 
+This repository contains my professional resume, developed using **LaTeX** to ensure high-quality typesetting and version control.
 
-## 🚀 About This Project
-As an aspiring **Cloud & DevOps Engineer**, I treat my documentation as code. Using LaTeX allows for:
-* **Version Control:** Tracking changes to my skills and experience over time.
-* **Consistency:** Maintaining a clean, professional layout that is easy for recruiters and ATS systems to read.
-* **Automation:** Potential for CI/CD integration to auto-compile the PDF on every update.
+## 🚀 Career Focus
+I am a Linux and Cloud Engineer specializing in:
+* **Cloud Infrastructure:** AWS (EC2, S3, IAM, VPC)
+* **Automation:** Jenkins CI/CD Pipelines
+* **Networking:** Enterprise Network Design (Cisco)
 
----
-
-## 🛠️ Tech Stack & Skills Highlighted
-* **Cloud:** AWS (EC2, S3, IAM, Lambda)
-* **DevOps:** Jenkins, CI/CD Pipelines, Git/GitHub
-* **OS:** Linux (Ubuntu)
-* **Networking:** CCNA (Hospital Network Project)
+## 📥 Quick Links
+👉 **[View My Resume (PDF)](./resume.pdf)** 👉 **[Connect on LinkedIn](https://www.linkedin.com/in/sandeep-dev-sne)**
 
 ---
 
-## 📥 View My Resume
-You can view or download the latest version of my resume here:
-👉 **[Download Resume (PDF)](./resume.pdf)**
-
----
-
-## ⚙️ How to Compile
-To compile the source code locally, you will need a LaTeX distribution (like TeX Live) or you can use [Overleaf](https://www.overleaf.com).
-
-```bash
-pdflatex resume.tex
+## 🛠 Why LaTeX?
+I treat my resume as **Documentation as Code**. Using LaTeX allows me to:
+1. Maintain a clean, ATS-friendly professional layout.
+2. Use **Git** to track every update and improvement in my career journey.
+3. Demonstrate technical proficiency in structured markup and version control.
