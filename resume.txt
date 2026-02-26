@@ -1,0 +1,95 @@
+\documentclass[a4paper,10pt]{article}
+
+% -------------------- PACKAGES --------------------
+\usepackage[margin=0.6in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\usepackage[none]{hyphenat}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[hidelinks]{hyperref}
+
+% -------------------- BULLET SETTINGS --------------------
+\setlist[itemize]{label=\textbullet, leftmargin=1.5em, itemsep=2pt, topsep=4pt}
+
+% -------------------- SECTION FORMAT --------------------
+\titleformat{\section}{\small\bfseries\uppercase}{}{0em}{}[\titlerule]
+\titlespacing*{\section}{0pt}{6pt}{4pt}
+
+\begin{document}
+
+% -------------------- HEADER --------------------
+\begin{center}
+{\Large \textbf{SANDEEP DEV T}}\\[4pt]
+Linux | AWS | DevOps | Networking\\[4pt]
+Coimbatore, Tamil Nadu | 8015381742 | \href{mailto:devsndeep63@gmail.com}{devsndeep63@gmail.com}\\
+\href{https://github.com/sandeep-dev-T}{github.com/sandeep-dev-T} |
+\href{https://www.linkedin.com/in/sandeep-dev-sne}{linkedin.com/in/sandeep-dev-sne}
+\end{center}
+
+% -------------------- PROFILE --------------------
+\section*{PROFILE}
+Linux and Cloud Engineer with hands-on experience in AWS, networking, and CI/CD automation. Strong foundation in Linux administration and enterprise network infrastructure, seeking entry-level opportunities in Cloud, Networking, or DevOps
+% -------------------- SKILLS --------------------
+\section*{SKILLS}
+\begin{itemize}
+    \item \textbf{Linux:} Shell Scripting, User \& Group Management, SSH Hardening, File Permissions, Firewalld, Process Monitoring, Systemctl
+    \item \textbf{AWS:} EC2, S3, IAM, VPC, Security Groups, CloudFront, Redshift
+    \item \textbf{DevOps:} Jenkins, Git, GitHub, Docker, CI/CD Pipelines, YAML
+    \item \textbf{Networking:} VLAN, Inter-VLAN Routing, NAT, RIP, TCP/IP, DNS, DHCP, Subnetting
+    \item \textbf{Tools:} Linux CLI, Cisco Packet Tracer, Git Bash
+\end{itemize}
+
+% -------------------- PROFESSIONAL EXPERIENCE --------------------
+\section*{PROFESSIONAL EXPERIENCE}
+\hspace{1em}\textbf{Data Annotation Specialist} | \textbf{2+ Years}
+\begin{itemize}
+    \item Managed large-scale structured data projects ensuring high accuracy and quality compliance
+    \item Improved workflow efficiency through structured documentation and process optimization
+    \item Collaborated with cross-functional teams in deadline-driven environments supporting AI/ML pipelines
+\end{itemize}
+
+% -------------------- PROJECTS --------------------
+\section*{PROJECTS}
+
+\hspace{1em}\textbf{Secure Linux Server Deployment on AWS EC2}
+\begin{itemize}
+    \item Launched and configured an AWS EC2 Linux instance with secure key-based SSH authentication
+    \item Implemented SSH hardening, Linux permission controls, and Firewalld firewall rules
+    \item Performed basic server monitoring and troubleshooting to ensure secure operation
+\end{itemize}
+
+
+\textbf{CI/CD Pipeline for Static Website Deployment}
+\begin{itemize}
+    \item Designed and implemented automated Jenkins CI/CD pipeline integrated with GitHub repository
+    \item Configured Jenkins to pull source code from GitHub and execute build stages
+    \item Automated static website deployment to AWS S3, reducing manual deployment effort by 70\%
+\end{itemize}
+
+\textbf{Enterprise Hospital Network Infrastructure (CCNA Project)}
+\begin{itemize}
+    \item Designed and simulated enterprise hospital network using Cisco Packet Tracer with ISP, Edge Router, Core and Distribution switches
+    \item Implemented VLAN segmentation (VLAN 10, 20, 40, 50) with inter-VLAN routing and subnetting for floor-based isolation
+    \item Configured NAT Overload (PAT) for internet access and implemented Port Security for device-level protection
+    \item Deployed DHCP, DNS, and Web servers within Data Center network segment
+\end{itemize}
+
+% -------------------- CERTIFICATIONS --------------------
+\section*{CERTIFICATIONS}
+CCNA (Training) | RHCE (Training) | CompTIA A+ (Training) | CompTIA Network+ (Training) | AWS \& DevOps (Training)
+
+% -------------------- EDUCATION --------------------
+\section*{EDUCATION}
+\textbf{Master of Computer Applications (MCA)} \hfill 2021 -- 2023\\
+SNS College of Technology
+
+\noindent\textbf{Bachelor of Science in Computer Science (B.Sc. CS)} \hfill 2017 -- 2020\\
+Bishop Appasamy College of Arts and Science
+
+% -------------------- LANGUAGES --------------------
+\section*{LANGUAGES}
+English | Tamil
+
+\end{document}
