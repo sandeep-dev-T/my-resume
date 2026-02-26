@@ -9,7 +9,7 @@ I am a Linux and Cloud Engineer specializing in:
 * **Networking:** Enterprise Network Design (Cisco)
 
 ## 📥 Quick Links
-👉 **[View My Resume (PDF)](./resume.pdf)** 👉 **[Connect on LinkedIn](https://www.linkedin.com/in/sandeep-dev-sne)**
+👉 **[View My Resume (PDF)](./sandeep_resume.pdf)** 👉 **[Connect on LinkedIn](https://www.linkedin.com/in/sandeep-dev-sne)**
 
 ---
 
